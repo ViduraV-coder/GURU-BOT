@@ -15,6 +15,8 @@
       "required": true,
       "value": "GuruBot~11GKwUUi"
     },
+    "MODE": {
+      "description": "mode public or private",
       "required": true,
       "value": "private"
     },
@@ -26,12 +28,12 @@
     "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "e25fe3e7-0e96-4ee3-9fef-796dafccc487"
+      "value": "zy82eawyqt96gt9i7pgcrw0g8babcw6vxnyupol0q8de6ybtowncyg06bzkxvuf0"
     },
     "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": "GURU-BOT-2"
+      "value": "gurubot2"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
